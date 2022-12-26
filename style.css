@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: darkgray;
+    box-sizing: border-box;
+    overflow: hidden;
+    text-align: center;
+    background-image: -webkit-linear-gradient(45deg, red 40%, orange 30%, purple 60%, rebeccapurple 0.5%);
+}
+
+#my_canvas{
+    background: lightgray;
+}
+
+
